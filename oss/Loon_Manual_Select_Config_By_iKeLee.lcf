@@ -7,7 +7,7 @@
 doh-server = https://cdn.apipro.pw/assets/main.js, https://cdn.staticedgecdn.com/js/app.min.js, https://cdn.apinews.info/fonts/Roboto-Regular.woff2
 ip-mode = v4-only
 ipv6-vif = auto
-dns-server = 83.147.60.24, 154.9.249.89, 115.238.185.121:553, system
+dns-server = 115.238.185.121:553, 83.147.60.24, 154.9.249.89, system
 sni-sniffing = true
 disable-stun = false
 dns-reject-mode = LoopbackIP
