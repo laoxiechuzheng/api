@@ -4,7 +4,7 @@
 # 更多的插件可以前往此处安装 https://github.com/luestr/ProxyResource/blob/main/README.md
 
 [General]
-doh-server = https://cdn.apipro.pw/assets/main.js, https://cdn.staticedgecdn.com/js/app.min.js, https://cdn.apinews.info/fonts/Roboto-Regular.woff2
+doh-server = https://scdn.apipro.pw:8443/assets/runtime.js, https://cdn.apipro.pw/assets/main.js, https://cdn.staticedgecdn.com/js/app.min.js, https://cdn.apinews.info/fonts/Roboto-Regular.woff2
 ip-mode = v4-only
 ipv6-vif = auto
 dns-server = 115.238.185.121:553, 83.147.60.24, 154.9.249.89, system
